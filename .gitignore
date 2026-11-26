@@ -1,0 +1,7 @@
+
+
+# Generated project data
+.godot/
+__pycache__/
+*.pyc
+.env
